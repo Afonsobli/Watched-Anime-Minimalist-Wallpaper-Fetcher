@@ -1,4 +1,4 @@
-# Watched-Anime-Minimalist-Wallpaper-Fetcher
+# Watched Anime Minimalist Wallpaper Fetcher
 
 Current State: To be changed/updated
 
