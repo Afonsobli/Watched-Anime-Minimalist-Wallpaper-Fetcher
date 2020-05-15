@@ -1,6 +1,6 @@
 # Watched-Anime-Minimalist-Wallpaper-Fetcher
 
-** Libraries
+** Libraries **
  - google_images_download  
  - urllib
  - re
